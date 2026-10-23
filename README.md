@@ -1,6 +1,9 @@
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iosevka+Charon&duration=2000&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=500&height=40&lines=Just+a+goofball." alt="Typing SVG" /></a>
 </p>
+
+Computer Science student. Math enthusiast. Compilers, Operating Systems, System level Hobbyist.
+
 <hr>
 
  About Me 😉
