@@ -43,7 +43,7 @@ Computer Science student. Math enthusiast. Compilers, Operating Systems, System 
 > 
 > I **Hate** math.
 > 
-> I not smart enought for math.
+> I'm not smart enought for math.
 
 ### Able to hallucinate without AI.
 > built-in feature, unfortunately.
